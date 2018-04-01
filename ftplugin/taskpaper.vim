@@ -19,7 +19,7 @@ endif
 
 " Define a default archive project name
 if !exists('g:task_paper_archive_project')
-    let g:task_paper_archive_project = "Archive"
+    let g:task_paper_archive_project = "Proyecto"
 endif
 
 " When moving a task, should the cursor follow or stay in the same place
